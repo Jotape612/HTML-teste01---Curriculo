@@ -1,0 +1,13 @@
+<html> hitotsu
+
+<h3><b>Informações do Aluno</b>.</h3><br/>
+
+<p><b>Nome:</b> <i>Will</i>.</p>
+<p><b>Idade:</b> <i>25</i>.</p>
+<p><b>Hobby: </b><i>Esperar Helena</i>.</p>
+
+<img src="C:\Users\aluno\Desktop\zoro.png"><img src="C:\Users\aluno\Desktop\icegif-240.gif">
+
+
+         </body> 
+               </html>
